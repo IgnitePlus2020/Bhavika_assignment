@@ -1,0 +1,61 @@
+{"Women's": [
+   {
+
+      "id_no": "101",
+      "item_name": "Top",
+      "price": "Rs.850"
+   },
+   {
+
+        "id_no": "102",
+        "item_name": "Mini Skirt",
+        "price": "Rs.399"
+    },
+    {
+
+        "id_no": "103",
+        "item_name": "Trousers",
+        "price": "Rs.620"
+     },
+     {
+
+        "id_no": "104",
+        "item_name": "Heels",
+        "price": "Rs.599"
+     }
+     
+     
+
+],
+
+"Men's": [
+    
+     {
+
+         "id_no": "111",
+         "item_name": "Jeans",
+         "price": "Rs.250"
+      },
+      {
+
+         "id_no": "112",
+         "item_name": "T-shirt",
+         "price": "Rs.390"
+      },
+      {
+
+         "id_no": "113",
+         "item_name": "Socks",
+         "price": "Rs.199"
+      },
+      {
+
+         "id_no": "114",
+         "item_name": "Shoes",
+         "price": "Rs.290"
+      }
+    ]
+
+ 
+
+}

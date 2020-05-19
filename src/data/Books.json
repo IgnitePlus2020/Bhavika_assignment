@@ -1,0 +1,62 @@
+{
+        "self-help": [
+           {
+               "image" : "<img='./images/front1.png' />",
+              "id_no": "301",
+              "item_name": "Do the work by Steven Pressfield",
+              "price": "Rs.850"
+           },
+           {
+    
+                "id_no": "302",
+                "item_name": "Ikigai",
+                "price": "Rs.399"
+            },
+            {
+    
+                "id_no": "303",
+                "item_name": "Mindset",
+                "price": "Rs.620"
+             },
+             {
+    
+                "id_no": "304",
+                "item_name": "The mindful day",
+                "price": "Rs.599"
+             }
+             
+             
+        
+        ],
+    
+        "fiction": [
+            
+             {
+     
+                 "id_no": "311",
+                 "item_name": "Demons and Angels by Dan Brown",
+                 "price": "Rs.250"
+              },
+              {
+     
+                 "id_no": "312",
+                 "item_name": "Harry Potter",
+                 "price": "Rs.390"
+              },
+              {
+     
+                 "id_no": "313",
+                 "item_name": "Pride and Prejudice",
+                 "price": "Rs.499"
+              },
+              {
+     
+                 "id_no": "314",
+                 "item_name": "To Kill A Mockingbird",
+                 "price": "Rs.290"
+              }
+            ]
+    
+         
+    
+     }

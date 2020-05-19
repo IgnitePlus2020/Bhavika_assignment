@@ -1,0 +1,61 @@
+{"Phone": [
+   {
+
+      "id_no": "201",
+      "item_name": "SAMSUNG galaxy S10",
+      "price": "Rs.80000"
+   },
+   {
+
+        "id_no": "202",
+        "item_name": "Iphone XR",
+        "price": "Rs.73000"
+    },
+    {
+
+        "id_no": "203",
+        "item_name": "One Plus 7T",
+        "price": "Rs.60000"
+     },
+     {
+
+        "id_no": "204",
+        "item_name": "Moto G",
+        "price": "Rs.39999"
+     }
+     
+     
+
+],
+
+"Laptop": [
+    
+     {
+
+         "id_no": "211",
+         "item_name": "MacBook",
+         "price": "Rs.250000"
+      },
+      {
+
+         "id_no": "212",
+         "item_name": "Chrome Book",
+         "price": "Rs.250000"
+      },
+      {
+
+         "id_no": "213",
+         "item_name": "Dell",
+         "price": "Rs.199999"
+      },
+      {
+
+         "id_no": "214",
+         "item_name": "Surface Book",
+         "price": "Rs.200000"
+      }
+    ]
+
+ 
+
+}
