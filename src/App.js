@@ -1,20 +1,26 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import * as ReactBootStrap from 'react-bootstrap';
+import *  as ReactBootStrap from 'react-bootstrap';
 import Navbar from './Navbar';
-import {  Route } from "react-router-dom";
-import FormsAndInputs from './Components/FormsAndInputs';
-
+import { BrowserRouter } from 'react-router-dom';
+import { Switch ,Route } from "react-router-dom";
+import FictionContent from './Components/content/FictionContent';
 
 
 function App() {
   return (
+    <BrowserRouter>
     <div className="App">
-        <Navbar /> <FormsAndInputs />
+    <Navbar />
+    <Switch>
+<div className= "header">
+            <Route path="/FictionContent" component={FictionContent}/>
 
+</div>
+</Switch>
     </div>
-    
+    </BrowserRouter>
   );
 }
 
